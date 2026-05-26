@@ -26,20 +26,6 @@
 <br/>
 <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yeremia-ganteng&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
-###
-
-<img src="https://raw.githubusercontent.com/yeremia-ganteng/yeremia-ganteng/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeremia-ganteng/yeremia-ganteng/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeremia-ganteng/yeremia-ganteng/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yeremia-ganteng/yeremia-ganteng/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+<img align="center" height="700" src="https://media1.tenor.com/images/a4c9d3b00630fefe352197e5513dfdb8/tenor.gif?itemid=6193301"  />
 <!-- [![](https://komarev.com/ghpvc/?username=yeremia-ganteng&icon=0&color=0)](https://visitcount.itsvg.in) -->
