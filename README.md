@@ -29,5 +29,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yeremia-ganteng&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+###
 <img src="https://raw.githubusercontent.com/yeremia-ganteng/yeremia-ganteng/snake-output/snake.svg" alt="Snake animation" />
+###
 <!-- [![](https://komarev.com/ghpvc/?username=yeremia-ganteng&icon=0&color=0)](https://visitcount.itsvg.in) -->
