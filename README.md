@@ -29,3 +29,8 @@
 <div align="center">
 <img align="center" height="700" src="https://media1.tenor.com/images/a4c9d3b00630fefe352197e5513dfdb8/tenor.gif?itemid=6193301"  />
 <!-- [![](https://komarev.com/ghpvc/?username=yeremia-ganteng&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<br/>
+<br/>
+### 📈 Tren Aktivitas Kontribusi (Hari & Bulan)
+![](https://github-readme-activity-graph.vercel.app/graph?username=yeremia-ganteng&theme=react-dark)
+</div>
