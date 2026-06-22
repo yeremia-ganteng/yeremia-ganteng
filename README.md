@@ -31,6 +31,14 @@
 <!-- [![](https://komarev.com/ghpvc/?username=yeremia-ganteng&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <br/>
 <br/>
-<h3>📈 Tren Aktivitas Kontribusi (Hari & Bulan)</h3>
+
+### Kalender Kontribusi Tahunan (Bulan & Tahun)
+<!-- Menampilkan kalender hijau lengkap dengan indikator bulan dan tahun aktif -->
+![](https://github-readme-stats.shion.dev/api/embed?username=yeremia-ganteng&theme=midnight-purple)
+
+<br/>
+
+### Grafik Aktivitas Kontribusi
+<!-- Grafik garis bergelombang untuk melihat tren naik/turun commit per bulan -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeremia-ganteng&theme=react-dark" alt="Activity Graph" />
 </div>
