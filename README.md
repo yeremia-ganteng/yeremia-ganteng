@@ -31,6 +31,6 @@
 <!-- [![](https://komarev.com/ghpvc/?username=yeremia-ganteng&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <br/>
 <br/>
-### 📈 Tren Aktivitas Kontribusi (Hari & Bulan)
-![](https://github-readme-activity-graph.vercel.app/graph?username=yeremia-ganteng&theme=react-dark)
+<h3>📈 Tren Aktivitas Kontribusi (Hari & Bulan)</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeremia-ganteng&theme=react-dark" alt="Activity Graph" />
 </div>
