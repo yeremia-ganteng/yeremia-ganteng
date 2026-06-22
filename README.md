@@ -1,10 +1,3 @@
-![yeremia-ganteng](img/github-header-banner.png)
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 <div align="center">
   <img src="img/github-header-banner.png" alt="yeremia-ganteng" width="100%" />
 </div>
@@ -48,17 +41,17 @@
 
 ---
 
-### Kontribusi & Aktivitas Berkala (Real-time Timeline)
+### 🗓️ Kontribusi & Aktivitas Berkala (Real-time Timeline)
 
 <div align="center">
-  <!-- Kalender Kontribusi Terintegrasi (Menampilkan Grid Bulan & Tahun) -->
-  <h4> Kalender Kontribusi (Grid per Bulan & Tahun)</h4>
-  <img src="https://github-readme-stats.shion.dev/api/embed?username=yeremia-ganteng&theme=midnight-purple" alt="Contribution Calendar" width="100%" />
+  <!-- Kalender Kontribusi Grid Ungu Stabil Berdasarkan Bulan -->
+  <h4>📅 Kalender Kontribusi Tahunan (Grid per Bulan)</h4>
+  <img src="https://ghchart.rshah.org/9f4bff/yeremia-ganteng" alt="Yeremia's Github Contribution Chart" width="100%" />
 
   <br/><br/>
 
   <!-- Grafik Garis yang di-tuning warnanya agar presisi dengan tema Midnight Purple -->
-  <h4> Tren Grafik Aktivitas Kontribusi</h4>
+  <h4>📈 Tren Grafik Aktivitas Kontribusi</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeremia-ganteng&bg_color=111019&color=9f4bff&line=ff4b82&point=ffffff&area=true&hide_border=false" alt="Activity Graph" width="100%" />
 </div>
 
