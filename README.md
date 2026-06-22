@@ -22,7 +22,7 @@
 
 ---
 
-### GitHub Metrics Dashboard
+### 📊 GitHub Metrics Dashboard
 
 <div align="center">
   <!-- Layout Grid Side-by-Side untuk Stats dan Streak Card agar Symmetrical -->
@@ -45,13 +45,13 @@
 
 <div align="center">
   <!-- Kalender Kontribusi Grid Ungu Stabil Berdasarkan Bulan -->
-  <h4>Kontribusi Tahunan (Grid per Bulan)</h4>
+  <h4>📅 Kalender Kontribusi Tahunan (Grid per Bulan)</h4>
   <img src="https://ghchart.rshah.org/9f4bff/yeremia-ganteng" alt="Yeremia's Github Contribution Chart" width="100%" />
 
   <br/><br/>
 
   <!-- Grafik Garis yang di-tuning warnanya agar presisi dengan tema Midnight Purple -->
-  <h4>Aktivitas Kontribusi</h4>
+  <h4>📈 Grafik Aktivitas Kontribusi</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeremia-ganteng&bg_color=111019&color=9f4bff&line=ff4b82&point=ffffff&area=true&hide_border=false" alt="Activity Graph" width="100%" />
 </div>
 
